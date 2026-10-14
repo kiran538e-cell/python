@@ -1,0 +1,16 @@
+#program with basic string operation.
+name = "william edward"
+print(name)
+print(name.upper())
+print(name.lower())
+print(name.title())
+print(name.capitalize())
+print(name.replace("edward" , "George"))
+print(name.find("ward"))
+print(len(name))
+print(name.count('a'))
+print(name.index('m'))
+print(name.startswith('w'))
+print(name.endswith('d'))
+print(name)
+print("Program Ended")
